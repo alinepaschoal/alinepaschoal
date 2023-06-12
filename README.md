@@ -1,7 +1,7 @@
 ### Hi there! I'm Aline Paschoal
 
 
-- 🔭 I’m currently working on data analysis project 
+- 🔭 I’m currently working on Airbnb listings analysis project 
 - 🌱 I’m currently learning Business Intelligence
 - 💬 Ask me about data science
 - 📫 Contact me:
